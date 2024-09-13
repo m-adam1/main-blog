@@ -27,3 +27,7 @@ github = "https://github.com/MuhammadAli-M"
 linkedin = "https://www.linkedin.com/in/muhammadadam5/"
 mail = "mailto:madam.comm@gmail.com"
 site = "https://google.com"
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-886GDY6HPD'
