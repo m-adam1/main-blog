@@ -1,4 +1,29 @@
-baseURL = 'https://example.org/'
-languageCode = 'ar-ae'
-title = 'My New Hugo Site'
-theme = 'zahi'
+baseURL = "https://mynewhugosite.com"
+title = "محمد آدم"
+theme = "zahi"
+languageCode = "ar"
+defaultContentLanguage = "ar"
+
+[taxonomies]
+tag = "tags"
+
+[menu]
+[[menu.main]]
+identifier = "الرئيسية"
+name = "الرئيسية"
+url = "/"
+weight = 10
+
+
+[[menu.main]]
+identifier = "المقالات"
+name = "المقالات"
+url = "/posts"
+weight = 10
+
+
+[params]
+github = "https://github.com/MuhammadAli-M"
+linkedin = "https://www.linkedin.com/in/muhammadadam5/"
+mail = "mailto:madam.comm@gmail.com"
+site = "https://google.com"
