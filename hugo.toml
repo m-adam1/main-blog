@@ -1,4 +1,4 @@
-baseURL = "https://muhammadali-m.github.io/main-blog"
+baseURL = "https://muhammadali-m.github.io/main-blog/"
 title = "محمد آدم"
 theme = "zahi"
 languageCode = "ar"
@@ -8,13 +8,6 @@ defaultContentLanguage = "ar"
 tag = "tags"
 
 [menu]
-[[menu.main]]
-identifier = "الرئيسية"
-name = "الرئيسية"
-url = "/"
-weight = 10
-
-
 [[menu.main]]
 identifier = "المقالات"
 name = "المقالات"
@@ -26,7 +19,6 @@ weight = 10
 github = "https://github.com/MuhammadAli-M"
 linkedin = "https://www.linkedin.com/in/muhammadadam5/"
 mail = "mailto:madam.comm@gmail.com"
-site = "https://google.com"
 
 [services]
   [services.googleAnalytics]

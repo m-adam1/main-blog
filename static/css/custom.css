@@ -1,0 +1,19 @@
+.image-left {
+    display: block;      /* Makes the image a block element */
+    margin-left: 0;      /* Ensures there is no margin on the left */
+    margin-right: auto;  /* Optional: ensures no extra spacing on the right */
+}
+
+@media (max-width: 768px) {
+    .image-left {
+        float: none;          /* Remove float on smaller screens */
+        display: block;       /* Ensure block display */
+        margin: 0 auto;       /* Center the image */
+    }
+}
+
+
+.image-center {
+    display: block;
+    margin: 0 auto;
+}

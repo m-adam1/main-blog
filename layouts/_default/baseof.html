@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/output.css" | relURL }}" type="text/css" media="all" />
+    <script src="{{ "js/main.js" | relURL }}"></script>
+</head>
+<body>
+    {{ block "main" . }}{{ end }}
+</body>
+</html>
