@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ar-ae'
+title = 'My New Hugo Site'
+theme = 'zahi'
