@@ -3,6 +3,7 @@ title: "كتاب Building Microservices الجزء 01"
 date: 2024-08-26
 tags: ["architecture", "microservices"]
 pinned: true
+cover: "images/cover_part01_v3.png"
 ---
 
 بإذن الله نبدأ نتكلم على نقاط من كتاب Building Microservices الطبعة الثانية، وندعو الله بالتيسير والسداد.
