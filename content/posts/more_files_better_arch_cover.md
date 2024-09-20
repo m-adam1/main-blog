@@ -8,9 +8,6 @@ cover: "images/more_files_better_arch_cover.jpeg"
 
 ## مقدمة
 
-
-![](../../images/more_files_better_arch_cover.jpeg)
-
 في ال backend:
 - لما اشتغلت على كود قديم، كل حاجة كانت بتحصل في ال controller من request validation و DB requests و response presentation.
 - بينما في  better architectures بقيت بعمل files أكثر.
