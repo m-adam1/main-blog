@@ -3,8 +3,8 @@
 
 <div dir="{{.Params.Direction}}" class="prose mx-auto break-normal px-5 mt-8 dark:prose-invert">
     {{ if .Params.Cover }}
-    <img src="{{ .Params.Cover | relURL }}" class="w-full h-64 sm:h-72 md:h-80 object-cover rounded-md my-3"
-        alt="{{.Title}}" loading="lazy">
+    <img src="{{ .Params.Cover | relURL }}" class="w-48 h-32 object-cover rounded-md my-3" alt="{{ .Title }}"
+      loading="lazy">
     {{ end }}
     <h1 class="text-2xl mb-0 md:text-3xl font-black ">{{ .Title }}</h1>
     <time class="text-sm my-2 text-muted mb-5" datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
