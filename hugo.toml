@@ -14,6 +14,11 @@ name = "المقالات"
 url = "/posts"
 weight = 10
 
+[[menu.main]]
+identifier = "المدونة"
+name = "المدونة"
+url = "/posts/blog"
+weight = 11
 
 [params]
 github = "https://github.com/MuhammadAli-M"
