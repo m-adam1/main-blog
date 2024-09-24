@@ -2,7 +2,7 @@
 title: "ليه بعمل files أكثر كل لما أحسن architecture"
 date: 2023-08-12
 tags: ["architecture", "mid-level"]
-pinned: true
+draft: true
 cover: "images/more_files_better_arch_cover.jpeg"
 ---
 
