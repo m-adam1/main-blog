@@ -35,32 +35,29 @@ cover: "images/cover_part03.png"
 
 وهنا لا يذكر إجابة شافية ولكن بعض الأراء:
 
-أولًا: يرى James Lewis\* أن الـ Microservice ينبغي أن يستوعبها العقل الواحد “a microservice should be as big as your head”
+أولًا: يرى James Lewis\* أن الـ Microservice ينبغي أن يستوعبها العقل الواحد “a microservice should be as big as your head”   
 والمقصود أن تكون في الحجم الذي يجعلها سهلة الفهم، واضحة الغرض. والتحدي هنا أن هذا التعبير غير موضوعي، فالناس تختلف في استيعابها، والفرق الخبيرة أقدر في التعامل مع أكواد أكبر وأعقد من غيرها.
 
-ثانيًا: يرى Chris Richardson\* أن الـ Microservice ينبغي أن تكون كأصغر واجهة ممكنة "as small an interface as possible"
-وهنا يشير لفكرة إخفاء التفاصيل information hiding.
+ثانيًا: يرى Chris Richardson\* أن الـ Microservice ينبغي أن تكون كأصغر واجهة ممكنة "as small an interface as possible"   
+وهنا يشير لفكرة إخفاء التفاصيل information hiding.  
 تعقيب: وهذا أيضًا يساعد في استقلالية ال microservice.
 
 وفي النهاية يلخص أن الحجم شيء معتمد على السياق. ويدعوك ألا تقلق كثيرًا بشأنه، ولكن إذا بدأت بتنفيذ ال microservices فعليك أن تهتم بأمرين. أولًا: عدد الـ microservices التي يمكنك التعامل معها (وذلك لأنه بزيادة عددهم سيزداد تعقيد النظام وستحتاج لتعلم مهارات جديدة بل وتقنيات أخرى). ثانيًا: كيف تحدد microservice boundaries؟ بحيث لا تكون الخدمات كومة متعلقة ببعضها البعض.
 
 ### 5- المرونة Flexibility
 
-يذكر الكاتب اقتباس أن ال microservices تفتح لك خيارات “microservices buy you options”.
+يذكر الكاتب اقتباس أن ال microservices تفتح لك خيارات “microservices buy you options”.  
 لكنه يذكرك بقصد عبارة الشراء buy، والتي تنبهك أن هناك تكلفة وعليك معرفتها ومدى تقبلك لبذلها.
 وينصح هنا بالاعتناق التدريجي للـ microservices والتقييم المستمر للنتائج والتكاليف.
 
 
 ونكتفي بهذا القدر ونستكمل آخر مفهوم فيما بعد بإذن الله.
 
----
-
-\* James Lewis هو المدير التقني لـ Thoughtworks 
-
+--- 
+\* James Lewis هو المدير التقني لـ Thoughtworks     
 \* Chris Richardson هو مؤلف كتاب Microservice Patterns
 
---
-
-لو عجبك المحتوى، انشره.
+--  
+لو عجبك المحتوى، انشره.     
 لو عندك أي تعليق أو تصحيح أو ترجمة أفضل، يسعدني معرفة رأيك.
 
