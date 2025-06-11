@@ -39,7 +39,7 @@ cover: "images/code-simplicity-01.png"
 وهسيب لك نصيحة كنت اتعلمتها من بشمهندس Hassan Ibrahim لما قلت له الكود اللي أنت كاتبه ده شكله عاجبني، فقالي أنا عادة بكتب الكود وبقرأه تاني أشوف هل شكله حلو، هل عارف أقرأه وأفهمه ولا لا. ولو لا بحاول أبسطه عن كده شوية.
 
 –   
-لو عجبك المحتوى، تفاعل وانشره [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7266013067556106240/) [Qabila](https://qabilah.com/posts/D5tVRJW4m7M)     
+لو عجبك المحتوى، تفاعل وانشره [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7266013067556106240/) - [Qabila](https://qabilah.com/posts/D5tVRJW4m7M)     
 لو عندك أي تعليق أو تصحيح، يسعدني معرفة رأيك.   
 
      
