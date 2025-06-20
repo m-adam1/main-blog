@@ -56,6 +56,29 @@ copies of the communication structures of these organizations."
 
 ![image 2](https://github.com/user-attachments/assets/b03dfb4a-d4d2-4f7a-843d-4976a20777a7)
 
+![image 2](../images/building_microservice_04_1.png)
+
+![image 2](images/building_microservice_04_1.png)
+
+![image 2](/images/building_microservice_04_1.png)
+
+
+![image 2](building_microservice_04_1.png)
+
+![image 2]("images/building_microservice_04_1.png")
+
+![image 2](/content/images/building_microservice_04_1.png)
+
+![image 2](./images/building_microservice_04_1.png)
+
+![image 2]("/images/building_microservice_04_1.png")
+
+![image 2]("public/images/building_microservice_04_1.png")
+
+![image 2](../../assets/images/building_microservice_04_1.png)
+
+
+
 وفي النهاية فإن الـ Microservices تعزز النوع الثاني والذي يتمحور حول الـ Business Domains كما ذكرنا في الكلام عن مفهوم Modeled Around a Business Domain.
 
 وهنا فائدة أخرى أنه ينبغي أن تنظر لما تستخدمه من معمارية - أيًا كانت - وترى ماذا تعزز وماذا تقيد. وهل عندك أي مشكلات نتيجة لاستخدامها؟
