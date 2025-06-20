@@ -53,7 +53,8 @@ copies of the communication structures of these organizations."
 ولو قمنا بعمل نفس التغيير المطلوب على معمارية تتمحور على Business Functionality، فسنجد التصور الآتي الذي يجعل scope of change في فريق واحد، فيسهل العمل عليه.
 
 في الصورة 2*: نجد تقسيم الـ Profile Functionality كخاصية مستقلة والتي هي من مسؤولية الـ Customer Microservice
-![image 2](/content/images/building_microservice_04_2.png)
+
+![image 2](building_microservice_04_2.png)
 
 وفي النهاية فإن الـ Microservices تعزز النوع الثاني والذي يتمحور حول الـ Business Domains كما ذكرنا في الكلام عن مفهوم Modeled Around a Business Domain.
 
