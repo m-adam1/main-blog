@@ -21,8 +21,9 @@ url = "/posts/blog"
 weight = 11
 
 [params]
-github = "https://github.com/MuhammadAli-M"
+github = "https://github.com/m-adam1"
 linkedin = "https://www.linkedin.com/in/muhammadadam5/"
+qabilah = "https://qabilah.com/profile/adam/"
 mail = "mailto:madam.comm@gmail.com"
 
 [services]
