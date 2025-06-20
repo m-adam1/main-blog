@@ -46,7 +46,7 @@ copies of the communication structures of these organizations."
 
 دعنا نأخذ مثال، في الصورة 1 مثال ذكره الكاتب وهو عبارة عن تطبيق صوتيات، ومطلوب عمل إضافة له، وهي إضافة تصنيف مفضل لكل مستخدم، وهذا الذي تطلب المهام المذكورة، وتم تقسيمها في طبقات بإسم كل فريق.
 
-![image 1](../../assets/images/building_microservice_04_1.png)
+![image 1](https://github.com/user-attachments/assets/98191d64-821a-43fe-8f21-ea8c3d4231f3)
 
 وفي الصورة يظهر أن نطاق التغيير Scope of change تفرق دمه بين الفِرَق.
 
@@ -54,7 +54,7 @@ copies of the communication structures of these organizations."
 
 في الصورة 2*: نجد تقسيم الـ Profile Functionality كخاصية مستقلة والتي هي من مسؤولية الـ Customer Microservice
 
-![image 2](../../assets/images/building_microservice_04_2.png)
+![image 2](https://github.com/user-attachments/assets/b03dfb4a-d4d2-4f7a-843d-4976a20777a7)
 
 وفي النهاية فإن الـ Microservices تعزز النوع الثاني والذي يتمحور حول الـ Business Domains كما ذكرنا في الكلام عن مفهوم Modeled Around a Business Domain.
 
